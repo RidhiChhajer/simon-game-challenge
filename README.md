@@ -15,7 +15,7 @@ Welcome to the Simon Game Challenge! This project is an implementation of the cl
 
 ## Demo
 
-[Provide a link to a live demo or screenshots of the game.]
+https://youtu.be/swPIgYGeiZI
 
 ## Features
 
