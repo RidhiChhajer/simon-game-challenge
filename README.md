@@ -93,8 +93,8 @@ Enjoy playing the Simon Game!
 
 ## Technologies Used
 
-- [HTML]([https://reactjs.org/](https://developer.mozilla.org/en-US/docs/Web/HTML))
-- [CSS]([https://redux.js.org/](https://developer.mozilla.org/en-US/docs/Web/CSS))
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Contributing
